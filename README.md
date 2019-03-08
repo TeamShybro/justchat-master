@@ -4,12 +4,12 @@
 
 This is one of the fundamental modules of a Task Management Program project. 
 
-In used technologies;
-  HTML5
-  CSS3
-  Javascript
+In used technologies:
+  HTML5,
+  CSS3,
+  Javascript,
   Django
 
-Database;
+Database:
   SQLite
 
