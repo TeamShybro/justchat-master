@@ -8,6 +8,7 @@ In used technologies:
   HTML5,
   CSS3,
   Javascript,
+  React.js,
   Django
 
 Database:
